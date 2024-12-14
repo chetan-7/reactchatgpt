@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactchatgpt/static/css/main.ccc84380.css",
+    "main.js": "/reactchatgpt/static/js/main.07c490da.js",
+    "static/media/user-icon-2.png": "/reactchatgpt/static/media/user-icon-2.2b3b8440a5245c919f24.png",
+    "static/media/chatgpt.svg": "/reactchatgpt/static/media/chatgpt.4c8727aa9bdbf99f9994196451794f61.svg",
+    "static/media/chatgptLogo.svg": "/reactchatgpt/static/media/chatgptLogo.496558ea071637d128587cb98b0e1b1c.svg",
+    "static/media/rocket.svg": "/reactchatgpt/static/media/rocket.3083828716c5d7716f71aa7e179555de.svg",
+    "static/media/send.svg": "/reactchatgpt/static/media/send.5cc05986cf306ae5d4ce38bf6fdc3def.svg",
+    "static/media/bookmark.svg": "/reactchatgpt/static/media/bookmark.c2178bf87e70a458757ba7290cea3ce7.svg",
+    "static/media/home.svg": "/reactchatgpt/static/media/home.54b8621214269a989c8b7627385bcd8a.svg",
+    "static/media/message.svg": "/reactchatgpt/static/media/message.ef36f79693990ff17ecf42cd018fcb4e.svg",
+    "index.html": "/reactchatgpt/index.html",
+    "main.ccc84380.css.map": "/reactchatgpt/static/css/main.ccc84380.css.map",
+    "main.07c490da.js.map": "/reactchatgpt/static/js/main.07c490da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc84380.css",
+    "static/js/main.07c490da.js"
+  ]
+}
