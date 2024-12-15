@@ -21,5 +21,3 @@ async function getGroqChatCompletion(message) {
       "top_p": 1,
     });
   }
-
-//   export GROQ_API_KEY=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
