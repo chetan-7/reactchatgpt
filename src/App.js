@@ -16,7 +16,7 @@ function App() {
   const [input,setInput] = useState("");
   const [messages,setMessages] = useState([
     {
-      text: "Hi,I am machine developed by Chetanya which can assist you with your queries.",
+      text: "Hi,I am ChatterBot developed by Chetanya which can assist you with your queries.",
       isBot: true,
     }
   ]);
@@ -67,7 +67,7 @@ function App() {
     <div className = "App">
       <div className = "sideBar">
         <div className = "upperSide">
-          <div className = "upperSideTop"><img src={gptLogo} alt="Logo" className="logo" /><span className="brand">ChatGPT</span></div>
+          <div className = "upperSideTop"><img src={gptLogo} alt="Logo" className="logo" /><span className="brand">ChatterBot</span></div>
           <button className = "midBtn" onClick = { () => window.location.reload()}><img src={addBtn} alt="new Chat" className="addBtn"/>New Chat</button>
           <div className= 'upperSideBottom'>
             <button className='query' onClick={handleQuery} value={"What is programming ?"}>
@@ -99,7 +99,7 @@ function App() {
           <div className="inp">
             <input type="text" placeholder='Send a message' value={input} onKeyDown = {handleEnter} onChange={(e) => {setInput(e.target.value)} } /><button className = "send" onClick={handleSend}><img src={sendBtn} alt="sendBtn"/></button>
           </div>
-          <p>ChatGPT may produce inaccurate information about people,places or fact.</p>
+          <p>ChatterBot may produce inaccurate information about people,places or fact.</p>
         </div>
       </div>
     </div>
